@@ -1,0 +1,28 @@
+leo = 100 + 200 - 50
+printer yamada leo
+hana "だよ"
+mao = leo * 4 / 2
+if leo < 10 then
+yui = 9
+else if leo > 20 then
+one = 61
+two = 65
+else
+rorensu = 5
+endif
+a = 1
+
+rorensu = 100
+rorensu = rorensu + rorensu
+
+
+do while a < 3
+rorensu = rorensu + a
+a = a + 1
+print a,"だよ"
+satou = 5
+loop
+
+print a
+a=7
+print a
