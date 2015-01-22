@@ -28,6 +28,7 @@ public enum LexicalType {
 	END,		// END
 	NL,			// ���s
 	DOT,		// .
+        EXTRA,
 	WHILE,		// WHILE
 	DO,			// DO
 	UNTIL,		// UNTIL

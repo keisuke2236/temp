@@ -21,7 +21,7 @@ public class Newlang3 {
         Node expression = null;
         int a = 15;
         try {
-            fin = new FileReader("/newlang3/test.txt");
+            fin = new FileReader("/Users/rorensu/NetBeansProjects/newlang3_syntax/src/newlang3/test.txt");
 
         } catch (Exception e) {
             System.out.println("file not found");

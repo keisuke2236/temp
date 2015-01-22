@@ -5,7 +5,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class CondNode extends Node {
-
     List<Node> nodes;
     Environment env;
     LexicalUnit first;

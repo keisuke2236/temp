@@ -225,7 +225,7 @@ public class LexicalAnalyzerImpl implements LexicalAnalyzer {
         nameMap.put("hana", new LexicalUnit(LexicalType.HANA));
         nameMap.put("do", new LexicalUnit(LexicalType.DO));
         nameMap.put("print", new LexicalUnit(LexicalType.PRINT));
-         nameMap.put("printer", new LexicalUnit(LexicalType.PRINTER));
+        nameMap.put("printer", new LexicalUnit(LexicalType.PRINTER));
         nameMap.put("until", new LexicalUnit(LexicalType.UNTIL));
         nameMap.put("loop", new LexicalUnit(LexicalType.LOOP));
         nameMap.put("to", new LexicalUnit(LexicalType.TO));

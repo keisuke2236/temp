@@ -1,28 +1,35 @@
-leo = 100 + 200 - 50
-printer yamada leo
-hana "だよ"
-mao = leo * 4 / 2
+leo = 4
+mao = leo * 2 + 100 - 4 / 2 + 7 * 9 - 3 * 1
+leo = 1
+dog = 1000000
+
+
 if leo < 10 then
-yui = 9
-else if leo > 20 then
-one = 61
-two = 65
+  dog = 9
 else
-rorensu = 5
+  terada = 5
 endif
-a = 1
 
-rorensu = 100
-rorensu = rorensu + rorensu
+if dog <= 999 then
+  cat = 9
+else if mao > 0 then
+  rat = 8
+endif 
 
+
+a = 0
+terada = 100
 
 do while a < 3
-rorensu = rorensu + a
-a = a + 1
-print a,"だよ"
-satou = 5
+  terada = terada + a
+  a = a + 1
+  print a,"だよ"
+  satou = 5
 loop
 
 print a
 a=7
-print a
+print "aの内容は ",a
+
+printer yamada leo
+hana "だよ"

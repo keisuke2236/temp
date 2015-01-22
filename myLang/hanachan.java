@@ -12,7 +12,8 @@ package newlang3;
 public class hanachan extends Function {
 
     public valueImpl getValue() {
-        System.out.println("はろーはなちゃん");
+        System.out.println("オリジナルはなちゃん関数がよばれました"); 
+        System.out.println("花は英語でflower"); 
         return null;
     }
     public valueImpl getValue(LexicalUnit aug) {
